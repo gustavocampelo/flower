@@ -1,5 +1,9 @@
 # Rosas negras em ASCII
 
+![Animação do buquê de rosas negras em ASCII, com mini morcegos e a mensagem Te amo](media/flower-preview.gif)
+
+[🌹 Abra a experiência interativa](https://gustavocampelo.github.io/flower/)
+
 Buquê 3D procedural de oito rosas em vermelho profundo quase preto, folhas verdes e laço cinza, acompanhado por quatro mini morcegos. Toda a cena — inclusive neve mágica e a frase **Te amo** — passa pelo pós-processamento ASCII na GPU. A única interface convencional visível é o botão Replay.
 
 ## Executar

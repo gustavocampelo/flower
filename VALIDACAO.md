@@ -25,7 +25,7 @@ A instalação precisou de acesso ao registro npm fora do isolamento de rede. O 
 | `t=1&paused=1` | Primeiros caracteres e pequenos trechos inferiores de caules |
 | `t=4&paused=1` | Caules e folhas em formação; magia discreta |
 | `t=8&paused=1` | Flores abertas/em abertura, laço parcialmente formado |
-| `t=12&paused=1` | Buquê completo e borboletas presentes |
+| `t=12&paused=1` | Buquê completo e morcegos presentes |
 | `t=20`, sem pausa | Rotação, profundidade e voo contínuo observados |
 | Replay após formação | Reiniciou sem navegação/recarregamento |
 | Replay durante formação | Reiniciou a timeline corretamente |
